@@ -1,2 +1,2 @@
 # JavaMavenTest1
-HelloWorld Example 
+Welcome Example
